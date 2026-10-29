@@ -1,7 +1,7 @@
 Package: com.bryan.omnicar
 Name: omnicar
 Version: 1.0.0
-Architecture: iphoneos-arm64 iphoneos-arm64e
+Architecture: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Description: Suc manh cua carplay
 Maintainer: bryanvo <vonhuttruong1406@gmail.com>
 Author: bryan
