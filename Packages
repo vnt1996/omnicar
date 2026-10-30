@@ -1,10 +1,12 @@
 Package: com.bryan.omnicar
-Name: omnicar
+Name: OmniCar
 Version: 1.0.0
 Architecture: iphoneos-arm64 iphoneos-arm64e
-Description: Suc manh cua carplay
-Maintainer: bryanvo <vonhuttruong1406@gmail.com>
+Description: Ứng dụng hỗ trợ đa phương tiện và tùy biến nâng cao cho CarPlay.
+Maintainer: bryan
 Author: bryan
 Section: Tweaks
+Depends: ellekit, preferenceloader
 Filename: deb/com.bryan.omnicar.deb
 Size: 1311144
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
